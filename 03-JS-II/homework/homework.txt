@@ -1,0 +1,4 @@
+El usop de "for" nos sirve para crear un ciclo continuo, el cual podemos delimitar, en caso contario de no hacerlo, este puede
+seguir sin parar, con la posibilidad de que se trabe nuestro equipo.
+El uso de "&&" es para condicionar que se debe cumplir esas condiciones, el uso de "||" es por si no se cumple la condición anterior
+ver si se cumple la siguiente hasta que se cumpla alguna y el uso de "!" es para señalar que se esta buscando todo lo contrario.
